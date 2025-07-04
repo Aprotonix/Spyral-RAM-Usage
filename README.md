@@ -2,7 +2,7 @@
 
 It's a little python programme to show the RAM usage in Windows Taskbar
 
-<img src="capture.png" width="800" />
+<img src="capture.png" width="200" />
 
 ###  Installation
 
