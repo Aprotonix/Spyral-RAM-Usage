@@ -1,0 +1,7 @@
+BG_COLOR = '#FFFFFF33'
+COLORS = {"low":"#00B3FAB5", "warn":"#7700FFAA", "high": "#FF0000AA"}
+SIZE = 64
+RADIUS = 15
+WARN_PERCENT = 70
+HIGH_PERCENT = 85
+    
